@@ -1,0 +1,13 @@
+@namespace("com.trafficmove.avro")
+protocol SensorDataKafka{
+record SensorData{
+    string vehicleId;
+	string vehicleType;
+	string routeId;
+	string latitude;
+	string longitude;	
+	long timestamp;
+	double speed;
+	double fuelLevel;
+	}
+}

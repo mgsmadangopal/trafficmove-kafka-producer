@@ -1,0 +1,3 @@
+/home/madan/eclipse-workspace/trafficmove-kafka-producer/src/main/java/com/trafficmove/app/kafka/producer/SensorDataProducer.java
+/home/madan/eclipse-workspace/trafficmove-kafka-producer/target/generated-sources/com/trafficmove/avro/SensorData.java
+/home/madan/eclipse-workspace/trafficmove-kafka-producer/target/generated-sources/com/trafficmove/avro/SensorDataKafka.java

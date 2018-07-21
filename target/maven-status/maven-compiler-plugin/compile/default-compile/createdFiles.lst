@@ -1,0 +1,6 @@
+com/trafficmove/app/kafka/producer/SensorDataProducer.class
+com/trafficmove/avro/SensorData$Builder.class
+com/trafficmove/avro/SensorDataKafka.class
+com/trafficmove/avro/SensorData$1.class
+com/trafficmove/avro/SensorData.class
+com/trafficmove/avro/SensorDataKafka$Callback.class
